@@ -1,0 +1,1 @@
+reg export "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" backup.reg
